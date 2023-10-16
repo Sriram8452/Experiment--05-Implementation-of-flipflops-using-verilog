@@ -184,10 +184,13 @@ SR FLIPFLOPS FOR RTL LOGIC:
 
 JK FLIPFLOPS FOR RTL LOGIC:
 ![2](https://github.com/Sriram8452/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118708032/778febbb-f8d7-4947-a8bd-d03749985b90)
+
 D FLIPFLOPS FOR RTL LOGIC:
 
 
 ![3](https://github.com/Sriram8452/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118708032/0f652d10-805b-4b66-ad3f-bd9591a2f82f)
+
+
 T FLIPFLOPS FOR RTL LOGIC:
 ![4](https://github.com/Sriram8452/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118708032/48caa0d4-5747-442a-b3b7-84775f546c73)
 
