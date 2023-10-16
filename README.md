@@ -179,16 +179,16 @@ endmodule
 # RTL LOGIC FOR FLIPFLOPS
 
 SR FLIPFLOPS FOR RTL LOGIC:
-![model](1.png)
+"C:\Users\Sriram\OneDrive\Documents\DE\Experiment--05-Implementation-of-flipflops-using-verilog\1.png"
 
 JK FLIPFLOPS FOR RTL LOGIC:
-![model](2.png)
+"C:\Users\Sriram\OneDrive\Documents\DE\Experiment--05-Implementation-of-flipflops-using-verilog\2.png"
 
 D FLIPFLOPS FOR RTL LOGIC:
-![model](3.png)
+"C:\Users\Sriram\OneDrive\Documents\DE\Experiment--05-Implementation-of-flipflops-using-verilog\3.png"
 
 T FLIPFLOPS FOR RTL LOGIC:
-![model](4.png)
+"C:\Users\Sriram\OneDrive\Documents\DE\Experiment--05-Implementation-of-flipflops-using-verilog\4.png"
 
 # TIMING DIGRAMS FOR FLIP FLOPS
 
