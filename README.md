@@ -178,31 +178,36 @@ endmodule
 
 # RTL LOGIC FOR FLIPFLOPS
 
-SR FLIPFLOPS FOR RTL LOGIC:
-"C:\Users\Sriram\OneDrive\Documents\DE\Experiment--05-Implementation-of-flipflops-using-verilog\1.png"
+SR FLIPFLOPS FOR RTL LOGIC:![1](https://github.com/Sriram8452/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118708032/e38d6caa-af6d-44fc-b40a-350ecc74c01c)
+
 
 JK FLIPFLOPS FOR RTL LOGIC:
-"C:\Users\Sriram\OneDrive\Documents\DE\Experiment--05-Implementation-of-flipflops-using-verilog\2.png"
+![2](https://github.com/Sriram8452/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118708032/778febbb-f8d7-4947-a8bd-d03749985b90)
+
 
 D FLIPFLOPS FOR RTL LOGIC:
-"C:\Users\Sriram\OneDrive\Documents\DE\Experiment--05-Implementation-of-flipflops-using-verilog\3.png"
+![3](https://github.com/Sriram8452/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118708032/0f652d10-805b-4b66-ad3f-bd9591a2f82f)
+
 
 T FLIPFLOPS FOR RTL LOGIC:
-"C:\Users\Sriram\OneDrive\Documents\DE\Experiment--05-Implementation-of-flipflops-using-verilog\4.png"
+![4](https://github.com/Sriram8452/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118708032/48caa0d4-5747-442a-b3b7-84775f546c73)
 
 # TIMING DIGRAMS FOR FLIP FLOPS
 
 SR FLIPFLOPS FOR TIMING DIGRAMS:
-![model](5.png)
+![5](https://github.com/Sriram8452/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118708032/21096459-943d-468e-aaaf-a6d874935949)
+
 
 JK FLIPFLOPS FOR TIMING DIGRAMS:
-![model](6.png)
+![6](https://github.com/Sriram8452/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118708032/d404d8ca-1a90-4d70-b31d-7bc5f5643224)
 
 D FLIPFLOPS FOR TIMING DIGRAMS:
-![model](7.png)
+![7](https://github.com/Sriram8452/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118708032/ecb79bde-9456-4532-adaf-2ee39463f7fa)
+
 
 T FLIPFLOPS FOR TIMING DIGRAMS:
-![model](8.png)
+![8](https://github.com/Sriram8452/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118708032/fe4cf8de-49bb-456c-adcf-306b9ffd6b71)
+
 
 ### RESULTS 
 Implementation-of-flipflops-using-verilog successfully completed.
