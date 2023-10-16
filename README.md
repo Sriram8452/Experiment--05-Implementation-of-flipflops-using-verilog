@@ -178,7 +178,8 @@ endmodule
 
 # RTL LOGIC FOR FLIPFLOPS
 
-SR FLIPFLOPS FOR RTL LOGIC:![1](https://github.com/Sriram8452/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118708032/e38d6caa-af6d-44fc-b40a-350ecc74c01c)
+SR FLIPFLOPS FOR RTL LOGIC:
+![1](https://github.com/Sriram8452/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118708032/e38d6caa-af6d-44fc-b40a-350ecc74c01c)
 
 
 JK FLIPFLOPS FOR RTL LOGIC:
